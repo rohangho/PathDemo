@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.e("MainActivity", "patch file" );
+        Log.e("MainActivity", "patch file 2" );
     }
 }
